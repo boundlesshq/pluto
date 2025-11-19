@@ -29,7 +29,7 @@
     "packages/**"
   ],
   "dependencies": {
-    "@hookform/resolvers": "^5.1.1",
+    "@hookform/resolvers": "^5.2.2",
     "@tanstack/react-table": "^8.19.3",
     "formik": "^2.4.6",
     "react-dropzone": "^14.3.5",
