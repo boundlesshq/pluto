@@ -41,7 +41,7 @@
     "jest-dom": "^4.0.0",
     "jest-environment-jsdom": "^29.7.0",
     "jest-watch-typeahead": "^2.2.2",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "prettier": "^3.5.3",
     "pretty-quick": "^4.0.0",
     "style-dictionary": "^3.9.2",
