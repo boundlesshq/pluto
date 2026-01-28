@@ -1,5 +1,28 @@
 # @localyze-pluto/components
 
+## 68.2.0
+
+### Minor Changes
+
+- [#1869](https://github.com/Localitos/pluto/pull/1869) [`e036125`](https://github.com/Localitos/pluto/commit/e03612542ecd907f6c26a8a14c47ad2d208066c3) Thanks [@rssilva](https://github.com/rssilva)! - Update @hookform/resolvers
+
+## 68.1.0
+
+### Minor Changes
+
+- [#1861](https://github.com/Localitos/pluto/pull/1861) [`4290c7e`](https://github.com/Localitos/pluto/commit/4290c7e619ec0d278eb864065399ea8f64622f40) Thanks [@rssilva](https://github.com/rssilva)! - Bump radix packages
+
+## 68.0.0
+
+### Minor Changes
+
+- [#1858](https://github.com/Localitos/pluto/pull/1858) [`213794e`](https://github.com/Localitos/pluto/commit/213794e6c8457bebfc3fcf9bf9669ee6de556fe8) Thanks [@rssilva](https://github.com/rssilva)! - Bump typescript, ts-jest, tsup
+
+### Patch Changes
+
+- Updated dependencies [[`213794e`](https://github.com/Localitos/pluto/commit/213794e6c8457bebfc3fcf9bf9669ee6de556fe8)]:
+  - @localyze-pluto/theme@48.0.0
+
 ## 67.0.0
 
 ### Minor Changes
