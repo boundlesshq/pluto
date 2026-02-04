@@ -3483,12 +3483,17 @@
   resolved "https://registry.yarnpkg.com/@storybook/addon-toolbars/-/addon-toolbars-8.5.1.tgz#b8bc1aabd934b205c11c4a6ed7e2db433fdbe215"
   integrity sha512-01Odzujfq/g9u1ZTmH/X3I9cCnsNzG/wuyhzFr/T99jerx8QG/U45iYYph2Ytw6A5AtYyCnPYmsTsI+phjUvuA==
 
-"@storybook/addon-viewport@8.5.1", "@storybook/addon-viewport@^8.5.1":
+"@storybook/addon-viewport@8.5.1":
   version "8.5.1"
   resolved "https://registry.yarnpkg.com/@storybook/addon-viewport/-/addon-viewport-8.5.1.tgz#068d5c74b22de06cf47d0a0addb4acb2291caa73"
   integrity sha512-kKCXZT3keUEQulv2tOzRSl/GdFA2JeFjHmks/n7qQLY0zDqdx/C7K9jUECcrOJiLclZwTJvHA3YXrglVJoa6Hw==
   dependencies:
     memoizerific "^1.11.3"
+
+"@storybook/addon-viewport@^9.0.8":
+  version "9.0.8"
+  resolved "https://registry.yarnpkg.com/@storybook/addon-viewport/-/addon-viewport-9.0.8.tgz#def767425a92a4bab91c2a09e884fbfb1810e3c5"
+  integrity sha512-HgIFDzNXvMx0zQBM5mhwBoAJlrF9KRlxNCZnJbqrFLCJO4Ps2PMtB0HRGHcg0gm3RLcqyps0DpiF7wll3udb7Q==
 
 "@storybook/blocks@8.5.1":
   version "8.5.1"
