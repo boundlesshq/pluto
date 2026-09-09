@@ -1,6 +1,6 @@
 import type { Meta, StoryFn } from "@storybook/react";
 import map from "lodash/map";
-import React, { ReactElement } from "react";
+import React, { ReactElement, type JSX } from "react";
 import dropRight from "lodash/dropRight";
 import { Link as ReactRouterLink, BrowserRouter } from "react-router-dom";
 import Link from "next/link";

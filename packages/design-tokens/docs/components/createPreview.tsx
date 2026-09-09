@@ -1,4 +1,4 @@
-import React from "react";
+import React, { type JSX } from "react";
 import replace from "lodash/replace";
 import camelCase from "lodash/camelCase";
 import upperFirst from "lodash/upperFirst";

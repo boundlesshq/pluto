@@ -1,6 +1,6 @@
 import type { Meta } from "@storybook/react";
 import { useForm, Controller, SubmitHandler } from "react-hook-form";
-import React from "react";
+import React, { type JSX } from "react";
 import { Box } from "../../primitives/Box";
 import { Button } from "../Button";
 import { Radio } from "./Radio";

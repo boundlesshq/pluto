@@ -1,6 +1,6 @@
 import { render, screen, waitFor } from "@testing-library/react";
 import { userEvent } from "@testing-library/user-event";
-import React from "react";
+import React, { type JSX } from "react";
 import { Button } from "../Button";
 import { Default } from "./Toast.stories";
 import { useToast } from "./useToast";

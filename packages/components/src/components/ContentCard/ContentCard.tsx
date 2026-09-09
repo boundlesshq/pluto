@@ -1,4 +1,4 @@
-import React, { ReactNode } from "react";
+import React, { ReactNode, type JSX } from "react";
 import { Box, BoxProps } from "../../primitives/Box";
 import { Heading } from "../Heading";
 import { Text } from "../../primitives/Text";

@@ -1,5 +1,5 @@
 import type { Meta } from "@storybook/react";
-import React from "react";
+import React, { type JSX } from "react";
 import { Box } from "./Box";
 
 export default {

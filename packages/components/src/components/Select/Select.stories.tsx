@@ -1,5 +1,5 @@
 import type { Meta } from "@storybook/react";
-import React from "react";
+import React, { type JSX } from "react";
 import { useFormik } from "formik";
 import { useForm, SubmitHandler, Controller } from "react-hook-form";
 import { useUID } from "react-uid";

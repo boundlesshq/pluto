@@ -1,5 +1,5 @@
 import type { Meta, StoryFn } from "@storybook/react";
-import React, { useState, useRef } from "react";
+import React, { useState, useRef, type JSX } from "react";
 import { useForm } from "react-hook-form";
 import { Button } from "../Button";
 import { Text } from "../../primitives/Text";

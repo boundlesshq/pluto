@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useState, type JSX } from "react";
 import { Box } from "../../../components/src/primitives/Box";
 import { Icon } from "../../../components/src/components/Icon/Icon";
 import { ThemeProvider, theme } from "../../../theme";
@@ -13,7 +13,9 @@ const CopyToClipboardButton = ({ textToCopy }: IconProps): JSX.Element => {
   const [onCopyClick, setOnCopyClick] = useState(false);
 
   useEffect(() => {
-    onCopyClick && setTimeout(() => setOnCopyClick(false), 3000);
+    if (onCopyClick) {
+      setTimeout(() => setOnCopyClick(false), 3000);
+    }
   }, [onCopyClick]);
 
   return (

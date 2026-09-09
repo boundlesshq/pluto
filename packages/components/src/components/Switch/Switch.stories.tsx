@@ -1,5 +1,5 @@
 import type { Meta, StoryFn } from "@storybook/react";
-import React from "react";
+import React, { type JSX } from "react";
 import { Switch } from "./Switch";
 
 export default {

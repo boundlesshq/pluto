@@ -1,7 +1,7 @@
 import type { Meta, StoryFn } from "@storybook/react";
 import map from "lodash/map";
 import dropRight from "lodash/dropRight";
-import React from "react";
+import React, { type JSX } from "react";
 import { Box } from "../../primitives/Box";
 import { Avatar, AvatarSizeOptions } from "./Avatar";
 import { getAvatarColor } from "./getAvatarColor";

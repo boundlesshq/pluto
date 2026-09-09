@@ -1,5 +1,5 @@
 import type { Meta } from "@storybook/react";
-import React from "react";
+import React, { type JSX } from "react";
 import { Button } from "../Button";
 import { Box } from "../../primitives/Box";
 import { StepIndicator } from "./StepIndicator";

@@ -1,4 +1,4 @@
-import React from "react";
+import React, { type JSX } from "react";
 import map from "lodash/map";
 import keys from "lodash/keys";
 import filter from "lodash/filter";

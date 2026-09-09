@@ -1,7 +1,7 @@
 import { TooltipAnchor, useStoreState, useTooltipStore } from "@ariakit/react";
 import { render, screen, waitFor } from "@testing-library/react";
 import { UserEvent, userEvent } from "@testing-library/user-event";
-import React from "react";
+import React, { type JSX } from "react";
 import { Button } from "../Button";
 import { Tooltip } from "./Tooltip";
 
