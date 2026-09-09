@@ -1,5 +1,5 @@
 import type { Meta, StoryFn } from "@storybook/react";
-import React from "react";
+import React, { type JSX } from "react";
 import { Box } from "../../primitives/Box";
 import { Button } from "../Button";
 import { Badge } from "../Badge";

@@ -1,5 +1,5 @@
 import type { Meta } from "@storybook/react";
-import React from "react";
+import React, { type JSX } from "react";
 import { useUID } from "react-uid";
 import { yupResolver } from "@hookform/resolvers/yup";
 import * as yup from "yup";

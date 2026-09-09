@@ -1,4 +1,6 @@
+import type { JSX } from "react";
 import { TokenEntry } from "./TokenEntry";
+
 
 export type TokenColumn = {
   name: string;

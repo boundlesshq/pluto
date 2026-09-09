@@ -1,4 +1,4 @@
-import React from "react";
+import React, { type JSX } from "react";
 import { Control, Controller } from "react-hook-form";
 import { RadioGroup, RadioGroupProps } from "../RadioGroup";
 

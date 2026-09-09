@@ -2,6 +2,7 @@ import * as React from "react";
 import parse, { HTMLReactParserOptions, domToReact } from "html-react-parser";
 import type { DOMNode, Element } from "html-react-parser";
 import toUpper from "lodash/toUpper";
+import type { JSX } from "react";
 import { Heading } from "../Heading";
 import { Paragraph } from "../Paragraph";
 import { Anchor } from "../Anchor";

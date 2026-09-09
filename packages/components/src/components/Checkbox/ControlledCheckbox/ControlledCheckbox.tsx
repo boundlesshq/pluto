@@ -1,4 +1,4 @@
-import React from "react";
+import React, { type JSX } from "react";
 import PropTypes from "prop-types";
 import { Control, Controller } from "react-hook-form";
 import type { ControllerProps } from "react-hook-form";

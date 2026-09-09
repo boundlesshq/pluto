@@ -1,6 +1,6 @@
 import type { Meta } from "@storybook/react";
 import { StoryObj } from "@storybook/react";
-import React from "react";
+import React, { type JSX } from "react";
 import noop from "lodash/noop";
 import { Button } from "../Button";
 import { Box } from "../../primitives/Box";

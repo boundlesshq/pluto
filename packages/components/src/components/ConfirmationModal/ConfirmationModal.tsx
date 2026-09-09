@@ -1,5 +1,5 @@
 import type { DisclosureStore } from "@ariakit/react";
-import React from "react";
+import React, { type JSX } from "react";
 import { Button } from "../Button";
 import { Modal, ModalBody, ModalFooter } from "../Modal/index";
 

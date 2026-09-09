@@ -2,7 +2,7 @@ import { within, userEvent } from "@storybook/testing-library";
 // eslint-disable-next-line eslint-comments/disable-enable-pair
 /* eslint-disable jsx-a11y/click-events-have-key-events */
 import type { Meta, StoryObj } from "@storybook/react";
-import React from "react";
+import React, { type JSX } from "react";
 import {
   createColumnHelper,
   flexRender,
